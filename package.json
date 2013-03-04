@@ -9,7 +9,7 @@
   }
   , "bin": "uam-example.js"
   , "uam": {
-    "start": "uam-example -p {port}"
+    "start": "uam-example"
   }
   , "engines": { "node": "0.4.x" }
 }
