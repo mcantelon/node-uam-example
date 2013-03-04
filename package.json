@@ -1,15 +1,15 @@
 {
-    "name": "lam-example"
+    "name": "uam-example"
   , "version": "0.0.1"
-  , "description": "Example lam local web application and package.json"
-  , "keywords": ["local", "lam"]
+  , "description": "Example uam local web application and package.json"
+  , "keywords": ["unhosted", "example", "local", "uam"]
   , "author": "Mike Cantelon <mcantelon@gmail.com>"
   , "dependencies": {
     "optimist": ">= 0.2.6"
   }
-  , "bin": "lam-example.js"
+  , "bin": "uam-example.js"
   , "local": {
-    "start": "lam-example -p {port}"
+    "start": "uam-example -p {port}"
   }
   , "engines": { "node": "0.4.x" }
 }
