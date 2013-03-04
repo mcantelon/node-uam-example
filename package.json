@@ -8,7 +8,7 @@
     "optimist": ">= 0.2.6"
   }
   , "bin": "uam-example.js"
-  , "local": {
+  , "uam": {
     "start": "uam-example -p {port}"
   }
   , "engines": { "node": "0.4.x" }
