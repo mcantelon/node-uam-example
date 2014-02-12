@@ -1,13 +1,13 @@
 
-# lam-example
+# uam-example
 
-  Example lam local web application and package.json
+  Example uam local web application and package.json
 
 This is an example of how a local web application's package.json can allow
 the package, if published to npm, to also be discoverable and installable
-by node-lam.
+by node-uam.
 
-See: http://github.com/mcantelon/node-lam
+See: http://github.com/mcantelon/node-uam
 
 ## License 
 
